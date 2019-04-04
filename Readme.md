@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[MainWindow.xaml](./CS/LoadPrjData/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LoadPrjData/MainWindow.xaml))**
-* [MainWindow.xaml.cs](./CS/LoadPrjData/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/LoadPrjData/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/LoadPrjData/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/LoadPrjData/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to automatically load a Cartesian data shapefile to geo map
 
